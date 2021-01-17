@@ -1,0 +1,22 @@
+.block_first{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+.form_input{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    border: 1px solid black;
+}
+form{
+    display: flex;
+    justify-content: space-between;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
